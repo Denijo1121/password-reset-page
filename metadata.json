@@ -1,0 +1,5 @@
+{
+  "name": "Charles River Password Reset Clone",
+  "description": "A responsive clone of the Charles River Laboratories password reset page, featuring dynamic content translation to French and Kannada using the Gemini API for a multi-lingual user experience.",
+  "requestFramePermissions": []
+}
